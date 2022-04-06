@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ILRunTimeTest6.28.-128718853.00" t="ExcludeRecursive" />
+    <e p="E:\Work\Project\ILRunTimeTest6.28" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AVProVideo" t="Include">
+          <e p="Demos" t="Include">
+            <e p="Materials" t="Include">
+              <e p="UI-Default-ExtraTexture.shader" t="Include" />
+              <e p="UI-DefaultFont-ExtraTexture.shader" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AutoRotate.cs" t="Include" />
+              <e p="DemoInfo.cs" t="Include" />
+              <e p="FrameExtract.cs" t="Include" />
+              <e p="Mapping3D.cs" t="Include" />
+              <e p="SampleApp_Multiple.cs" t="Include" />
+              <e p="Scriptlets" t="Include">
+                <e p="ChangeAudioTrack.cs" t="Include" />
+                <e p="ChangeStereoMode.cs" t="Include" />
+                <e p="ChangeVideoExample.cs" t="Include" />
+                <e p="LoadFromBuffer.cs" t="Include" />
+                <e p="LoadFromBufferInChunks.cs" t="Include" />
+                <e p="NativeMediaOpen.cs" t="Include" />
+                <e p="PlaybackSync.cs" t="Include" />
+                <e p="StartEndPoint.cs" t="Include" />
+                <e p="VideoTrigger.cs" t="Include" />
+              </e>
+              <e p="SimpleController.cs" t="Include" />
+              <e p="SphereDemo.cs" t="Include" />
+              <e p="VCR.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="AVProVideo-Background-FullScreen.shader" t="Include" />
+              <e p="AVProVideo-Background-FullScreenTransparent.shader" t="Include" />
+              <e p="AVProVideo-BlendFrames.shader" t="Include" />
+              <e p="AVProVideo-Helper-Transition.shader" t="Include" />
+              <e p="AVProVideo-IMGUI-Transparent.shader" t="Include" />
+              <e p="AVProVideo-Lit-Diffuse.shader" t="Include" />
+              <e p="AVProVideo-Lit-Transparent-Diffuse.shader" t="Include" />
+              <e p="AVProVideo-Skybox-Cube3x2.shader" t="Include" />
+              <e p="AVProVideo-Skybox-Sphere.shader" t="Include" />
+              <e p="AVProVideo-UI-AndroidOES.shader" t="Include" />
+              <e p="AVProVideo-UI-Default-Stereo.shader" t="Include" />
+              <e p="AVProVideo-UI-Default-Transparent.shader" t="Include" />
+              <e p="AVProVideo-Unlit-AndroidOES.shader" t="Include" />
+              <e p="AVProVideo-Unlit-Transparent.shader" t="Include" />
+              <e p="AVProVideo-Unlit.shader" t="Include" />
+              <e p="AVProVideo-VR-InsideSphere-AndroidOES.shader" t="Include" />
+              <e p="AVProVideo-VR-InsideSphere-StereoUV.shader" t="Include" />
+              <e p="AVProVideo-VR-InsideSphere-Transparent.shader" t="Include" />
+              <e p="AVProVideo-VR-InsideSphere.shader" t="Include" />
+              <e p="AVProVideo.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Components" t="Include">
+              <e p="ApplyToMaterial.cs" t="Include" />
+              <e p="ApplyToMesh.cs" t="Include" />
+              <e p="AudioChannelMixer.cs" t="Include" />
+              <e p="AudioOutput.cs" t="Include" />
+              <e p="CubemapCube.cs" t="Include" />
+              <e p="DebugOverlay.cs" t="Include" />
+              <e p="DisplayBackground.cs" t="Include" />
+              <e p="DisplayIMGUI.cs" t="Include" />
+              <e p="DisplayUGUI.cs" t="Include" />
+              <e p="MediaPlayer.cs" t="Include" />
+              <e p="PlaylistMediaPlayer.cs" t="Include" />
+              <e p="StreamParser.cs" t="Include" />
+              <e p="SubtitlesUGUI.cs" t="Include" />
+              <e p="Support" t="Include">
+                <e p="NGUI" t="Include">
+                  <e p="ApplyToTextureWidgetNGUI.cs" t="Include" />
+                </e>
+                <e p="PlayMaker" t="Include">
+                  <e p="Actions" t="Include">
+                    <e p="AVProVideoControl.cs" t="Include" />
+                    <e p="AVProVideoDisplayUGUI.cs" t="Include" />
+                    <e p="AVProVideoEvent.cs" t="Include" />
+                    <e p="AVProVideoInfo.cs" t="Include" />
+                    <e p="AVProVideoPlayer.cs" t="Include" />
+                    <e p="Internal" t="Include">
+                      <e p="AVProVideoActionBase.cs" t="Include" />
+                    </e>
+                  </e>
+                  <e p="Editor" t="Include">
+                    <e p="AVProVideoActionHeaderPropertyDrawer.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="UpdateStereoMaterial.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="ApplyToMaterialEditor.cs" t="Include" />
+              <e p="ApplyToMeshEditor.cs" t="Include" />
+              <e p="AudioOutputEditor.cs" t="Include" />
+              <e p="DisplayUGUIEditor.cs" t="Include" />
+              <e p="MediaPlayerEditor.cs" t="Include" />
+              <e p="PlaylistMediaPlayerEditor.cs" t="Include" />
+              <e p="PostProcessBuild.cs" t="Include" />
+              <e p="SupportWindow.cs" t="Include" />
+              <e p="UpdateStereoMaterialEditor.cs" t="Include" />
+            </e>
+            <e p="Internal" t="Include">
+              <e p="AndroidMediaPlayer.cs" t="Include" />
+              <e p="AudioOutputManager.cs" t="Include" />
+              <e p="BaseMediaPlayer.cs" t="Include" />
+              <e p="HLSStream.cs" t="Include" />
+              <e p="Interfaces.cs" t="Include" />
+              <e p="NullMediaPlayer.cs" t="Include" />
+              <e p="OSXMediaPlayer.cs" t="Include" />
+              <e p="Resampler.cs" t="Include" />
+              <e p="Stream.cs" t="Include" />
+              <e p="WebGLMediaPlayer.cs" t="Include" />
+              <e p="WindowsMediaPlayer.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ILRunTimeAndAddressable" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="GameLunch.cs" t="Include" />
+            <e p="Managers" t="Include">
+              <e p="ILRuntimeWrapper.cs" t="Include" />
+              <e p="ResMgr.cs" t="Include" />
+            </e>
+            <e p="Utils" t="Include">
+              <e p="Editor" t="Include">
+                <e p="DllToBytes.cs" t="Include" />
+              </e>
+              <e p="EventDispatcher.cs" t="Include" />
+              <e p="MonoSingleton.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Samples" t="Include">
+          <e p="ILRuntime" t="Include">
+            <e p="1.6.7" t="Include">
+              <e p="Demo" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="ILRuntimeCLRBinding.cs" t="Include" />
+                  <e p="ILRuntimeCrossBinding.cs" t="Include" />
+                  <e p="ILRuntimeMenu.cs" t="Include" />
+                </e>
+                <e p="LitJson" t="Include">
+                  <e p="IJsonWrapper.cs" t="Include" />
+                  <e p="JsonData.cs" t="Include" />
+                  <e p="JsonException.cs" t="Include" />
+                  <e p="JsonMapper.cs" t="Include" />
+                  <e p="JsonMockWrapper.cs" t="Include" />
+                  <e p="JsonReader.cs" t="Include" />
+                  <e p="JsonWriter.cs" t="Include" />
+                  <e p="Lexer.cs" t="Include" />
+                  <e p="ParserToken.cs" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="Examples" t="Include">
+                    <e p="01_HelloWorld" t="Include">
+                      <e p="HelloWorld.cs" t="Include" />
+                    </e>
+                    <e p="02_Invocation" t="Include">
+                      <e p="Invocation.cs" t="Include" />
+                    </e>
+                    <e p="03_Delegate" t="Include">
+                      <e p="DelegateDemo.cs" t="Include" />
+                    </e>
+                    <e p="04_Inheritance" t="Include">
+                      <e p="Inheritance.cs" t="Include" />
+                      <e p="InheritanceAdapter.cs" t="Include" />
+                    </e>
+                    <e p="05_CLRRedirection" t="Include">
+                      <e p="CLRRedirectionDemo.cs" t="Include" />
+                    </e>
+                    <e p="06_CLRBinding" t="Include">
+                      <e p="CLRBindingDemo.cs" t="Include" />
+                    </e>
+                    <e p="07_Coroutine" t="Include">
+                      <e p="CoroutineAdapter.cs" t="Include" />
+                      <e p="CoroutineDemo.cs" t="Include" />
+                    </e>
+                    <e p="08_MonoBehaviour" t="Include">
+                      <e p="Editor" t="Include">
+                        <e p="MonoBehaviourAdapterEditor.cs" t="Include" />
+                      </e>
+                      <e p="MonoBehaviourAdapter.cs" t="Include" />
+                      <e p="MonoBehaviourDemo.cs" t="Include" />
+                    </e>
+                    <e p="09_Reflection" t="Include">
+                      <e p="ReflectionDemo.cs" t="Include" />
+                    </e>
+                    <e p="10_LitJson" t="Include">
+                      <e p="LitJsonDemo.cs" t="Include" />
+                    </e>
+                    <e p="11_ValueTypeBinding" t="Include">
+                      <e p="QuaternionBinder.cs" t="Include" />
+                      <e p="ValueTypeBindingDemo.cs" t="Include" />
+                      <e p="Vector2Binder.cs" t="Include" />
+                      <e p="Vector3Binder.cs" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ILRunTimeTest6.28.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

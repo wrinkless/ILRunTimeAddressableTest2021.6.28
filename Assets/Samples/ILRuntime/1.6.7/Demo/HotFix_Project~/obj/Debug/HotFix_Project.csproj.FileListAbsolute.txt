@@ -1,0 +1,6 @@
+E:\Work\Project\ILRunTimeTest6.28\Assets\ILRunTimeAndAddressable\AssetsPackage\HotFixDll\HotFix_Project.dll
+E:\Work\Project\ILRunTimeTest6.28\Assets\ILRunTimeAndAddressable\AssetsPackage\HotFixDll\HotFix_Project.pdb
+E:\Work\Project\ILRunTimeTest6.28\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.csproj.AssemblyReference.cache
+E:\Work\Project\ILRunTimeTest6.28\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.csproj.CoreCompileInputs.cache
+E:\Work\Project\ILRunTimeTest6.28\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.dll
+E:\Work\Project\ILRunTimeTest6.28\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.pdb

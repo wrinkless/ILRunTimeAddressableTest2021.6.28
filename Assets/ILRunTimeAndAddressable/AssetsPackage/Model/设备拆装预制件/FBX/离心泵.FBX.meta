@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: bf0a17cbe0e16b541b5e04b769947635
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Curve01
+    100002: obj____01
+    100004: objBox05
+    100006: "\u4FDD\u62A4\u7F69"
+    100008: "\u53F6\u8F6E"
+    100010: "\u5BF9\u8C61001"
+    100012: "\u5BF9\u8C61002"
+    100014: "\u5BF9\u8C61006"
+    100016: "\u5BF9\u8C61007"
+    100018: "\u6321\u6CB9\u73AF002"
+    100020: "\u673A\u68B0\u5BC6\u5C01"
+    100022: "\u7535\u673A"
+    100024: //RootNode
+    100026: "\u8054\u8F74\u5668"
+    100028: "\u8F74\u627F1"
+    100030: "\u8F74\u627F\u7BB1"
+    100032: "\u5BF9\u8C61008"
+    100034: "\u5BF9\u8C61009"
+    100036: "\u7EC4003"
+    100038: VIFS001
+    100040: "\u5BF9\u8C61010"
+    100042: "\u5BF9\u8C61011"
+    100044: "\u5BF9\u8C61012"
+    100046: "\u5BF9\u8C61013"
+    400000: Curve01
+    400002: obj____01
+    400004: objBox05
+    400006: "\u4FDD\u62A4\u7F69"
+    400008: "\u53F6\u8F6E"
+    400010: "\u5BF9\u8C61001"
+    400012: "\u5BF9\u8C61002"
+    400014: "\u5BF9\u8C61006"
+    400016: "\u5BF9\u8C61007"
+    400018: "\u6321\u6CB9\u73AF002"
+    400020: "\u673A\u68B0\u5BC6\u5C01"
+    400022: "\u7535\u673A"
+    400024: //RootNode
+    400026: "\u8054\u8F74\u5668"
+    400028: "\u8F74\u627F1"
+    400030: "\u8F74\u627F\u7BB1"
+    400032: "\u5BF9\u8C61008"
+    400034: "\u5BF9\u8C61009"
+    400036: "\u7EC4003"
+    400038: VIFS001
+    400040: "\u5BF9\u8C61010"
+    400042: "\u5BF9\u8C61011"
+    400044: "\u5BF9\u8C61012"
+    400046: "\u5BF9\u8C61013"
+    2100000: "\u68D5"
+    2100002: "\u767D"
+    2100004: "\u7EFF"
+    2100006: "\u9ED1"
+    2100008: "\u94DC\u8272"
+    2100010: "\u900F\u660E"
+    2100012: "\u6CB9"
+    2100014: "\u767D\u8272\u4E0D\u9508\u94A2"
+    2100016: "\u4E0D\u9508\u94A2"
+    2100018: "\u87BA\u7EB9"
+    2100020: 'Material #643'
+    2100022: 'Material #171'
+    2300000: obj____01
+    2300002: objBox05
+    2300004: "\u4FDD\u62A4\u7F69"
+    2300006: "\u53F6\u8F6E"
+    2300008: "\u5BF9\u8C61001"
+    2300010: "\u5BF9\u8C61002"
+    2300012: "\u5BF9\u8C61006"
+    2300014: "\u5BF9\u8C61007"
+    2300016: "\u6321\u6CB9\u73AF002"
+    2300018: "\u673A\u68B0\u5BC6\u5C01"
+    2300020: "\u7535\u673A"
+    2300022: "\u8054\u8F74\u5668"
+    2300024: "\u8F74\u627F1"
+    2300026: "\u8F74\u627F\u7BB1"
+    2300028: "\u5BF9\u8C61008"
+    2300030: "\u5BF9\u8C61009"
+    2300032: VIFS001
+    2300034: "\u5BF9\u8C61010"
+    2300036: "\u5BF9\u8C61011"
+    2300038: "\u5BF9\u8C61012"
+    2300040: "\u5BF9\u8C61013"
+    3300000: obj____01
+    3300002: objBox05
+    3300004: "\u4FDD\u62A4\u7F69"
+    3300006: "\u53F6\u8F6E"
+    3300008: "\u5BF9\u8C61001"
+    3300010: "\u5BF9\u8C61002"
+    3300012: "\u5BF9\u8C61006"
+    3300014: "\u5BF9\u8C61007"
+    3300016: "\u6321\u6CB9\u73AF002"
+    3300018: "\u673A\u68B0\u5BC6\u5C01"
+    3300020: "\u7535\u673A"
+    3300022: "\u8054\u8F74\u5668"
+    3300024: "\u8F74\u627F1"
+    3300026: "\u8F74\u627F\u7BB1"
+    3300028: "\u5BF9\u8C61008"
+    3300030: "\u5BF9\u8C61009"
+    3300032: VIFS001
+    3300034: "\u5BF9\u8C61010"
+    3300036: "\u5BF9\u8C61011"
+    3300038: "\u5BF9\u8C61012"
+    3300040: "\u5BF9\u8C61013"
+    4300000: "\u53F6\u8F6E"
+    4300002: obj____01
+    4300004: "\u7535\u673A"
+    4300006: "\u8054\u8F74\u5668"
+    4300008: "\u4FDD\u62A4\u7F69"
+    4300010: "\u8F74\u627F\u7BB1"
+    4300012: "\u5BF9\u8C61007"
+    4300014: "\u8F74\u627F1"
+    4300016: "\u6321\u6CB9\u73AF002"
+    4300018: "\u5BF9\u8C61001"
+    4300020: "\u5BF9\u8C61002"
+    4300022: "\u673A\u68B0\u5BC6\u5C01"
+    4300024: "\u5BF9\u8C61006"
+    4300026: objBox05
+    4300028: "\u5BF9\u8C61008"
+    4300030: "\u5BF9\u8C61009"
+    4300032: "\u5BF9\u8C61013"
+    4300034: "\u5BF9\u8C61010"
+    4300036: "\u5BF9\u8C61011"
+    4300038: "\u5BF9\u8C61012"
+    4300040: VIFS001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #171'
+    second: {fileID: 2100000, guid: 376da5ab11652054c9c686fc1bd34804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: 1da2ea88bb8ae484990973a728e4b857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #38'
+    second: {fileID: 2100000, guid: 1ff19755a17f7c74c90d98c6f0f7bd8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #643'
+    second: {fileID: 2100000, guid: b0289b36cf5af06408b5f00c3d968e44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u68D5"
+    second: {fileID: 2100000, guid: 5721449513d71c3468bebcde4a2decbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6CB9"
+    second: {fileID: 2100000, guid: 690b8c5bb0ab6f74fa32616f509816de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u767D"
+    second: {fileID: 2100000, guid: ca481e83f99431a4da68b71497f188b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u767D\u8272\u4E0D\u9508\u94A2"
+    second: {fileID: 2100000, guid: 73d425cf291301a4fadd891ed5b4a759, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u7EFF"
+    second: {fileID: 2100000, guid: a39e619992227b94080127e7e874e307, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u900F\u660E"
+    second: {fileID: 2100000, guid: eb4a4a67237114a41b598e8c5422c094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u94DC\u8272"
+    second: {fileID: 2100000, guid: c8f5f07a5b5ccd94694be75b9436da04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u9ED1"
+    second: {fileID: 2100000, guid: d7bb393dda579154cad56e3fdabc7d2d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
